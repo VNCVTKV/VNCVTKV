@@ -18,7 +18,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=als-creator&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VNCVTKV&layout=compact&theme=radical)
 
 <!--
 **VNCVTKV/VNCVTKV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
