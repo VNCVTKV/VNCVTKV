@@ -2,7 +2,7 @@
 <h3 align='center'>Russia, Moscow</h3>
 
 - 💻 I’m write in **python**
-- 📫 You can contact me by ![tg](https://t.me/vncvtkv) 
+- 📫 You can contact me by [tg](https://t.me/vncvtkv) 
 
 <h3> &#128736; My stack:</h3>
 
