@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=30&duration=2000&pause=1000&color=1D75D4&vCenter=true&width=435&height=35&lines=Hello%2C+world!)](https://git.io/typing-svg)
 
-Привет! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" /> 
-My name Ivan!
+Hello! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" /> 
+I'm Ivan!
 =======================================================================================================================================
 
-Я начинающий Python разработчик.  
-На моем GitHub можно найти проекты, в которых я реализую свои идеи и обучаюсь новым технологиям.
+I am a beginner Python developer.  
+On my GitHub, you can find projects where I implement my ideas and learn new technologies.
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32"> Контакты
 * [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:vncvtkv@yandex.ru)
