@@ -7,7 +7,7 @@ I'm Ivan!
 I'm a beginner Python developer.  
 On my GitHub, you can find projects where I implement my ideas and learn new technologies.
 
-## <img src="✉" alt="💌" width="32" height="32"> Contacts
+## <img src="📫" alt="💌" width="32" height="32"> Contacts
 * [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:vncvtkv@yandex.ru)
 * [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/vncvtkv)
 
