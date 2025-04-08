@@ -4,7 +4,7 @@ Hello! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 I'm Ivan!
 =======================================================================================================================================
 
-I am a beginner Python developer.  
+I'm a beginner Python developer.  
 On my GitHub, you can find projects where I implement my ideas and learn new technologies.
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32"> Контакты
