@@ -35,7 +35,7 @@ MathgamesPlatformAPI - REST API, реализованный на Django REST Fra
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VNCVTKV&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vncvtkv&layout=compact&theme=radical)
 
 <!--
 **vncvtkv/vncvtkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
