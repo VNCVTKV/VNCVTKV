@@ -11,7 +11,7 @@ My name Ivan!
 * [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:vncvtkv@yandex.ru)
 * [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/vncvtkv)
 
-
+=======================================================================================================================================
 <h3> &#128736; My stack:</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
